@@ -1,0 +1,2 @@
+## Installation
+`yay -S chromium`

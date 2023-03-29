@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "6e7d3ec0519fbc07",
+    "type": "split",
+    "children": [
+      {
+        "id": "3843be5b66cb0820",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68f59dc434f9ea0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EndeavourOS.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69b878b5022e8645",
+    "type": "split",
+    "children": [
+      {
+        "id": "35fbc74930df7e71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "004e9a3867502804",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ca18ff09d56d149",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1baab62b12d1194f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "97c9fb4bf8edb1de",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7bfafabd3815e12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa974a7433a17afe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EndeavourOS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "054a3a8cfd80c5e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EndeavourOS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2eac34488912d363",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8ebd3eae9dcb322e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EndeavourOS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "68f59dc434f9ea0e",
+  "lastOpenFiles": [
+    "Installing EndeavourOS.md",
+    "EndeavourOS.md",
+    "Software installation.md",
+    "Remote access.md",
+    "VNC.md",
+    "Remote Desktop.md",
+    "Teamviewer.md",
+    "Libreoffice.md",
+    "Games.md",
+    "Lutris.md",
+    "Steam.md",
+    "Graphics.md",
+    "Digital camera.md",
+    "Krita.md",
+    "Gimp.md",
+    "Virtual Machines.md",
+    "QEMU.md",
+    "VMware Workstation Player.md",
+    "Virtual Box.md",
+    "Communication.md",
+    "Zoom.md",
+    "Signal.md",
+    "Slack.md",
+    "Teams.md",
+    "Software development.md",
+    "Obsidian.md"
+  ]
+}

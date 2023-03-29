@@ -1,0 +1,3 @@
+- [[Gimp]]
+- [[Krita]]
+- [[Digital camera]]
