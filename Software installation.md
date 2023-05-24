@@ -6,6 +6,7 @@
 - [[Virtual Machines]]
 - [[Graphics]]
 - [[Games]]
+- [[Terminal]]
 
 ## Removal of software
 Software on [[EndeavourOS]] can be removed as follows:

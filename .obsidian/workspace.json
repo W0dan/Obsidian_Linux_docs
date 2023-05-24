@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EndeavourOS.md",
-                "mode": "preview",
+                "file": "Terminal.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -65,8 +65,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "666b57c6fdffb84d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EndeavourOS.md",
+                "file": "Terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EndeavourOS.md",
+                "file": "Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EndeavourOS.md"
+                "file": "Terminal.md"
               }
             }
           }
@@ -149,9 +158,18 @@
   },
   "active": "68f59dc434f9ea0e",
   "lastOpenFiles": [
-    "Installing EndeavourOS.md",
-    "EndeavourOS.md",
+    "ssh.md",
+    "git.md",
+    "Terminal.md",
+    "thefuck.md",
+    "oh-my-zsh.md",
+    "ZSH.md",
     "Software installation.md",
+    "Graphics.md",
+    "Krita.md",
+    "Chrome.md",
+    "EndeavourOS.md",
+    "Installing EndeavourOS.md",
     "Remote access.md",
     "VNC.md",
     "Remote Desktop.md",
@@ -160,20 +178,11 @@
     "Games.md",
     "Lutris.md",
     "Steam.md",
-    "Graphics.md",
     "Digital camera.md",
-    "Krita.md",
     "Gimp.md",
     "Virtual Machines.md",
     "QEMU.md",
     "VMware Workstation Player.md",
-    "Virtual Box.md",
-    "Communication.md",
-    "Zoom.md",
-    "Signal.md",
-    "Slack.md",
-    "Teams.md",
-    "Software development.md",
-    "Obsidian.md"
+    "Virtual Box.md"
   ]
 }
