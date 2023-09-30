@@ -13,9 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal.md",
+                "file": "Printer.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal.md",
+                "file": "Printer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminal.md",
+                "file": "Printer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminal.md"
+                "file": "Printer.md"
               }
             }
           }
@@ -158,17 +157,18 @@
   },
   "active": "68f59dc434f9ea0e",
   "lastOpenFiles": [
+    "Printer.md",
+    "EndeavourOS.md",
+    "Software installation.md",
+    "Terminal.md",
     "ssh.md",
     "git.md",
-    "Terminal.md",
     "thefuck.md",
     "oh-my-zsh.md",
     "ZSH.md",
-    "Software installation.md",
     "Graphics.md",
     "Krita.md",
     "Chrome.md",
-    "EndeavourOS.md",
     "Installing EndeavourOS.md",
     "Remote access.md",
     "VNC.md",
@@ -182,7 +182,6 @@
     "Gimp.md",
     "Virtual Machines.md",
     "QEMU.md",
-    "VMware Workstation Player.md",
-    "Virtual Box.md"
+    "VMware Workstation Player.md"
   ]
 }
