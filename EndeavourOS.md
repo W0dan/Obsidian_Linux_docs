@@ -39,6 +39,9 @@ Installation is explained in detail here: [[Installing EndeavourOS]]
 - **Optional:** [[Change your desktop background]]
 - [[Flameshot]] voor screenshots
 
+## Security
+- **Optional:** Install an [[Antivirus]]
+
 ## System maintenance
 - Update your packages:
 	- Type following in a console: `yay -Syu`

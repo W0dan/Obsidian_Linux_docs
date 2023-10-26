@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Printer.md",
+                "file": "ClamAV.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Printer.md",
+                "file": "ClamAV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Printer.md",
+                "file": "ClamAV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Printer.md"
+                "file": "ClamAV.md"
               }
             }
           }
@@ -157,8 +157,14 @@
   },
   "active": "68f59dc434f9ea0e",
   "lastOpenFiles": [
-    "Printer.md",
+    "Antivirus.md",
     "EndeavourOS.md",
+    "ClamAV.md",
+    "FOSS.md",
+    "Digital camera.md",
+    "QEMU.md",
+    "Untitled.canvas",
+    "Printer.md",
     "Software installation.md",
     "Terminal.md",
     "ssh.md",
@@ -177,11 +183,6 @@
     "Libreoffice.md",
     "Games.md",
     "Lutris.md",
-    "Steam.md",
-    "Digital camera.md",
-    "Gimp.md",
-    "Virtual Machines.md",
-    "QEMU.md",
-    "VMware Workstation Player.md"
+    "Steam.md"
   ]
 }

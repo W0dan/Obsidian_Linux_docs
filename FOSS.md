@@ -1,0 +1,1 @@
+FOSS is an acronym that means 'Free and Open Source Software'.
