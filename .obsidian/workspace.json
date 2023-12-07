@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3843be5b66cb0820",
+        "id": "93c19606ed2d5110",
         "type": "tabs",
         "children": [
           {
-            "id": "68f59dc434f9ea0e",
+            "id": "b3df88f26aa7c7e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ClamAV.md",
+                "file": "Dotnet.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ClamAV.md",
+                "file": "Dotnet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ClamAV.md",
+                "file": "Dotnet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ClamAV.md"
+                "file": "Dotnet.md"
               }
             }
           }
@@ -155,13 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68f59dc434f9ea0e",
+  "active": "b3df88f26aa7c7e5",
   "lastOpenFiles": [
+    "Digital camera.md",
+    "Dotnet.md",
+    "linux.md",
+    "Arch User Repository (AUR).md",
+    "ClamAV.md",
     "Antivirus.md",
     "EndeavourOS.md",
-    "ClamAV.md",
     "FOSS.md",
-    "Digital camera.md",
     "QEMU.md",
     "Untitled.canvas",
     "Printer.md",
@@ -180,9 +182,6 @@
     "VNC.md",
     "Remote Desktop.md",
     "Teamviewer.md",
-    "Libreoffice.md",
-    "Games.md",
-    "Lutris.md",
-    "Steam.md"
+    "Libreoffice.md"
   ]
 }
