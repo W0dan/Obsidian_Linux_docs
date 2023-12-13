@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dotnet.md",
+                "file": "Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dotnet.md",
+                "file": "Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dotnet.md",
+                "file": "Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dotnet.md"
+                "file": "Linux.md"
               }
             }
           }
@@ -156,32 +156,32 @@
   },
   "active": "b3df88f26aa7c7e5",
   "lastOpenFiles": [
-    "Digital camera.md",
-    "Dotnet.md",
-    "linux.md",
+    "Mount network shares.md",
     "Arch User Repository (AUR).md",
-    "ClamAV.md",
-    "Antivirus.md",
-    "EndeavourOS.md",
-    "FOSS.md",
-    "QEMU.md",
-    "Untitled.canvas",
-    "Printer.md",
-    "Software installation.md",
-    "Terminal.md",
-    "ssh.md",
+    "Software development.md",
     "git.md",
+    "Antivirus.md",
+    "ssh.md",
+    "Terminal.md",
+    "Linux.md",
+    "Untitled.canvas",
+    "EndeavourOS.md",
+    "Software installation.md",
+    "Installing EndeavourOS.md",
+    "Remote access.md",
+    "FOSS.md",
+    "Dotnet.md",
+    "Digital camera.md",
+    "linux.md",
+    "ClamAV.md",
+    "QEMU.md",
+    "Printer.md",
     "thefuck.md",
     "oh-my-zsh.md",
     "ZSH.md",
     "Graphics.md",
     "Krita.md",
     "Chrome.md",
-    "Installing EndeavourOS.md",
-    "Remote access.md",
-    "VNC.md",
-    "Remote Desktop.md",
-    "Teamviewer.md",
-    "Libreoffice.md"
+    "VNC.md"
   ]
 }

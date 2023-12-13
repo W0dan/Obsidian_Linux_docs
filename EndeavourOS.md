@@ -1,5 +1,5 @@
 ## Archlinux
-EndeavourOS is a Linux distribution that is based on the Archlinux distribution. 
+EndeavourOS is a [[Linux]] distribution that is based on the Archlinux distribution. 
 
 ### Properties of Archlinux
 - Rolling release
