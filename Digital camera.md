@@ -18,3 +18,8 @@
 - Darktable
 	- Needed for processing RAW files
 	- `yay -S darktable`
+	- ⚠️ Lately, darktable is saying it doesn't fully support RAW files from the R6 Mark II, seems to work for now but ...
+- XnViewMP
+	- lightweight viewer for RAW files
+	- `yay -S xnviewmp`
+

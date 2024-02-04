@@ -1,3 +1,4 @@
-- [[Teamviewer]]
+- [[Thinlinc]]
+- ~~[[Teamviewer]]~~ at this point I cannot recommend Teamviewer, since the service is unreliable.
 - [[Remote Desktop]]
 - [[VNC]]

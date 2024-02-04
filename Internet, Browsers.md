@@ -1,0 +1,4 @@
+- [[Internet, Browsers, Firefox]] (installed by default)
+- [[Internet, Browsers, LibreWolf]] (based on Firefox)
+- [[Internet, Browsers, Brave]] (Chrome based)
+- [[Internet, Browsers, Chrome]] or [[Internet, Browsers, Chromium]] if you absolutely must

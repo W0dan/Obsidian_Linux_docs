@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux.md",
+                "file": "Internet, DNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "teamvie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux.md",
+                "file": "Internet, DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux.md",
+                "file": "Internet, DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux.md"
+                "file": "Internet, DNS.md"
               }
             }
           }
@@ -156,32 +156,32 @@
   },
   "active": "b3df88f26aa7c7e5",
   "lastOpenFiles": [
+    "Internet.md",
+    "Internet, DNS.md",
+    "Internet, Browsers.md",
+    "Internet, Browsers, LibreWolf.md",
+    "Internet, Browsers, Firefox.md",
+    "Internet, Browsers, Chrome.md",
+    "Internet, Browsers, Chromium.md",
+    "Internet, Browsers, Brave.md",
+    "Internet,.md",
+    "opendns.com.md",
+    "adguard.com.md",
+    "Timeshift.md",
+    "EndeavourOS.md",
+    "Thinlinc.md",
+    "Remote access.md",
+    "Teamviewer.md",
+    "Remote Desktop.md",
+    "Software installation.md",
+    "VNC.md",
+    "Zoom.md",
+    "Digital camera.md",
+    "Linux.md",
     "Mount network shares.md",
     "Arch User Repository (AUR).md",
     "Software development.md",
     "git.md",
-    "Antivirus.md",
-    "ssh.md",
-    "Terminal.md",
-    "Linux.md",
-    "Untitled.canvas",
-    "EndeavourOS.md",
-    "Software installation.md",
-    "Installing EndeavourOS.md",
-    "Remote access.md",
-    "FOSS.md",
-    "Dotnet.md",
-    "Digital camera.md",
-    "linux.md",
-    "ClamAV.md",
-    "QEMU.md",
-    "Printer.md",
-    "thefuck.md",
-    "oh-my-zsh.md",
-    "ZSH.md",
-    "Graphics.md",
-    "Krita.md",
-    "Chrome.md",
-    "VNC.md"
+    "Untitled.canvas"
   ]
 }

@@ -33,11 +33,12 @@ Installation is explained in detail here: [[Installing EndeavourOS]]
 
 ## Things to do first
 - **Obligatory:** Install [[Timeshift]]
-- **Optional:** Install [[Printer]] or Printers if you have any
+	- so you can always go back to a working system
+- **Optional:** Install [[Printer]](s) if you have any
 - **Optional:** [[Mount harddrives]] if you have other drives than your OS drive
 - **Optional:** [[Mount network shares]] if you have any
 - **Optional:** [[Change your desktop background]]
-- [[Flameshot]] voor screenshots
+- [[Flameshot]] for screenshots
 
 ## Security
 - **Optional:** Install an [[Antivirus]]
